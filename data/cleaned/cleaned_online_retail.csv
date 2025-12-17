@@ -1,0 +1,601 @@
+invoiceno,invoicedate,stockcode,description,quantity,unitprice,customerid,country,category,paymentmethod,channel,city,totalprice
+INV52119,2025-09-25 09:44:01,P0039,improve item,4,61.55,46914,Netherlands,Stationery,NetBanking,Mobile App,Sydney,246.2
+INV56364,2025-10-09 13:40:44,P0029,couple item,9,285.06,55379,United Kingdom,Home Decor,PayPal,Retail Store,Rome,2565.54
+INV71813,2025-07-26 20:00:02,P0015,young item,6,492.76,88612,Spain,Outdoor,NetBanking,Retail Store,New York,2956.56
+INV93108,2025-09-17 06:11:27,P0043,whether item,3,238.18,47650,Netherlands,Electronics,PayPal,Mobile App,Berlin,714.54
+INV74406,2025-09-29 11:25:33,P0008,stay item,1,95.14,56881,Germany,Stationery,UPI,Online,London,95.14
+INV12503,2025-07-25 14:29:52,P0021,order item,4,244.97,56413,Germany,Stationery,PayPal,Online,New York,979.88
+INV78243,2025-09-12 11:57:48,P0039,community item,9,258.67,16012,France,Stationery,UPI,Mobile App,Madrid,2328.03
+INV13572,2025-07-29 13:15:59,P0019,at item,3,372.14,60115,Netherlands,Stationery,PayPal,Retail Store,New York,1116.42
+INV35023,2025-11-03 17:07:43,P0023,camera item,9,350.93,17151,France,Stationery,Card,Mobile App,Sydney,3158.37
+INV90427,2025-06-30 05:13:20,P0011,report item,7,204.26,67716,United Kingdom,Outdoor,NetBanking,Online,Sydney,1429.82
+INV95330,2025-06-18 12:06:15,P0011,team item,4,112.92,46378,Italy,Electronics,Card,Online,New York,451.68
+INV75042,2025-09-07 09:33:34,P0024,game item,3,324.3,52652,Italy,Stationery,PayPal,Mobile App,Paris,972.9000000000001
+INV34095,2025-11-04 10:39:46,P0036,take item,5,213.74,82430,Italy,Kitchen,PayPal,Mobile App,Berlin,1068.7
+INV99138,2025-11-12 08:23:31,P0040,analysis item,5,70.48,23467,Netherlands,Kitchen,PayPal,Online,Paris,352.40000000000003
+INV01083,2025-06-11 22:50:40,P0024,step item,3,450.78,41010,Italy,Electronics,UPI,Mobile App,Paris,1352.34
+INV32369,2025-07-01 10:25:09,P0003,believe item,9,347.15,64691,United Kingdom,Home Decor,NetBanking,Online,New York,3124.35
+INV87157,2025-09-09 21:38:38,P0022,left item,4,343.18,74157,France,Home Decor,NetBanking,Mobile App,Amsterdam,1372.72
+INV10510,2025-10-03 10:59:36,P0002,adult item,5,412.18,22289,Netherlands,Home Decor,PayPal,Mobile App,Amsterdam,2060.9
+INV18397,2025-07-04 21:27:02,P0024,lead item,4,267.18,54976,France,Kitchen,PayPal,Mobile App,Amsterdam,1068.72
+INV59427,2025-11-21 05:15:05,P0044,main item,5,408.45,53596,Netherlands,Home Decor,UPI,Online,Berlin,2042.25
+INV58793,2025-11-20 14:08:57,P0030,question item,7,251.55,33171,France,Outdoor,Card,Mobile App,Paris,1760.8500000000001
+INV57701,2025-11-26 23:31:13,P0038,race item,9,38.25,96365,Germany,Stationery,Card,Online,London,344.25
+INV21783,2025-07-03 19:38:45,P0002,list item,7,205.6,54139,France,Kitchen,NetBanking,Online,Madrid,1439.2
+INV62827,2025-10-01 03:18:07,P0021,feeling item,5,251.25,58713,Italy,Electronics,UPI,Mobile App,Amsterdam,1256.25
+INV36097,2025-06-29 08:06:21,P0033,again item,7,361.5,39734,Germany,Electronics,PayPal,Mobile App,Amsterdam,2530.5
+INV99615,2025-10-30 11:29:07,P0012,us item,5,57.76,82588,France,Stationery,NetBanking,Online,Sydney,288.8
+INV67140,2025-09-17 18:42:32,P0022,race item,3,74.31,73646,Netherlands,Kitchen,UPI,Online,Paris,222.93
+INV60823,2025-06-16 22:41:01,P0044,second item,7,135.52,13654,Netherlands,Home Decor,Card,Retail Store,Paris,948.6400000000001
+INV21523,2025-09-01 16:23:48,P0025,machine item,2,136.92,99022,Usa,Home Decor,UPI,Online,Berlin,273.84
+INV82070,2025-10-11 21:55:12,P0049,act item,9,367.43,28743,Netherlands,Outdoor,Card,Retail Store,Berlin,3306.87
+INV61363,2025-08-08 23:40:22,P0027,drop item,1,129.11,58368,Spain,Outdoor,UPI,Retail Store,Amsterdam,129.11
+INV00717,2025-10-23 03:54:54,P0042,bit item,6,318.38,84172,United Kingdom,Home Decor,NetBanking,Retail Store,Paris,1910.28
+INV37423,2025-09-17 03:17:45,P0028,method item,7,249.67,16441,Netherlands,Electronics,Card,Mobile App,London,1747.6899999999998
+INV22902,2025-09-14 16:37:37,P0016,lay item,8,288.78,34611,Germany,Electronics,NetBanking,Mobile App,Madrid,2310.24
+INV39196,2025-07-20 20:55:05,P0015,statement item,9,419.86,22149,Usa,Outdoor,NetBanking,Online,New York,3778.7400000000002
+INV63253,2025-10-15 03:05:04,P0047,dog item,2,205.17,69189,Netherlands,Stationery,Card,Retail Store,Paris,410.34
+INV11938,2025-07-11 12:14:44,P0044,program item,2,386.6,31675,Spain,Home Decor,Card,Mobile App,Sydney,773.2
+INV57714,2025-06-21 22:45:59,P0003,history item,5,213.91,81031,Italy,Outdoor,PayPal,Mobile App,New York,1069.55
+INV97549,2025-06-18 16:27:03,P0037,benefit item,5,180.17,52668,Germany,Outdoor,PayPal,Mobile App,Paris,900.8499999999999
+INV84922,2025-10-07 21:03:40,P0007,leader item,6,479.52,23673,Spain,Home Decor,PayPal,Mobile App,Rome,2877.12
+INV87603,2025-08-23 10:18:44,P0021,per item,3,96.26,86666,Italy,Home Decor,NetBanking,Mobile App,Berlin,288.78000000000003
+INV20320,2025-11-10 21:14:43,P0009,author item,8,49.72,98204,Australia,Electronics,NetBanking,Retail Store,Sydney,397.76
+INV30064,2025-10-06 04:37:04,P0039,both item,1,386.64,90758,Australia,Stationery,PayPal,Retail Store,Madrid,386.64
+INV83879,2025-09-18 18:33:29,P0018,or item,6,38.78,75429,Germany,Stationery,NetBanking,Retail Store,Amsterdam,232.68
+INV66716,2025-07-11 11:17:43,P0004,discover item,4,419.35,33669,France,Home Decor,NetBanking,Retail Store,Sydney,1677.4
+INV54156,2025-06-29 05:28:26,P0025,risk item,1,221.41,44068,United Kingdom,Kitchen,Card,Online,Paris,221.41
+INV77356,2025-11-02 13:20:12,P0014,serious item,7,458.18,98789,Usa,Outdoor,Card,Retail Store,Amsterdam,3207.26
+INV00821,2025-08-19 16:29:24,P0050,use item,9,362.16,19435,United Kingdom,Outdoor,NetBanking,Mobile App,Paris,3259.44
+INV19200,2025-11-02 11:39:37,P0009,president item,4,307.15,62249,Spain,Home Decor,PayPal,Retail Store,Amsterdam,1228.6
+INV50034,2025-09-22 11:45:02,P0026,read item,4,474.91,47384,Italy,Kitchen,UPI,Online,Madrid,1899.64
+INV45263,2025-06-15 20:17:40,P0002,fill item,6,201.34,91929,United Kingdom,Electronics,PayPal,Mobile App,Berlin,1208.04
+INV72204,2025-08-04 19:33:57,P0020,behavior item,3,477.27,86153,Italy,Home Decor,UPI,Retail Store,Madrid,1431.81
+INV00848,2025-09-27 11:55:40,P0028,second item,6,71.83,85388,Italy,Home Decor,PayPal,Retail Store,Rome,430.98
+INV77928,2025-08-05 08:08:13,P0047,or item,7,244.46,41401,Spain,Outdoor,Card,Retail Store,London,1711.22
+INV12352,2025-08-09 19:01:42,P0007,dog item,3,138.61,81831,Spain,Home Decor,NetBanking,Mobile App,Berlin,415.83000000000004
+INV71016,2025-09-26 21:08:17,P0044,talk item,7,272.22,44084,Spain,Home Decor,NetBanking,Mobile App,Madrid,1905.5400000000002
+INV91045,2025-09-16 17:19:18,P0008,number item,3,85.2,65826,United Kingdom,Home Decor,Card,Online,Rome,255.60000000000002
+INV78110,2025-07-27 13:30:14,P0047,consider item,2,421.56,46451,Australia,Outdoor,UPI,Mobile App,London,843.12
+INV46190,2025-09-11 14:34:27,P0035,choice item,4,423.97,17227,Spain,Electronics,UPI,Mobile App,Rome,1695.88
+INV83854,2025-12-02 12:21:49,P0014,share item,8,477.84,41910,Usa,Electronics,UPI,Retail Store,Paris,3822.72
+INV02149,2025-06-26 16:25:21,P0017,detail item,9,81.56,46041,United Kingdom,Home Decor,Card,Mobile App,New York,734.04
+INV29429,2025-09-02 09:34:28,P0036,administration item,7,313.55,98920,Spain,Outdoor,UPI,Retail Store,Paris,2194.85
+INV72899,2025-08-31 08:34:27,P0050,matter item,1,239.75,75681,Netherlands,Electronics,Card,Retail Store,Amsterdam,239.75
+INV68624,2025-11-22 13:49:45,P0040,chance item,3,175.47,91571,Italy,Electronics,PayPal,Mobile App,Berlin,526.41
+INV16158,2025-07-04 14:17:45,P0004,forward item,9,179.01,75481,Usa,Electronics,PayPal,Online,Paris,1611.09
+INV98305,2025-08-07 16:06:08,P0002,who item,1,209.33,78576,Spain,Outdoor,Card,Online,Sydney,209.33
+INV93140,2025-07-12 20:47:41,P0006,today item,9,353.94,74174,Germany,Outdoor,NetBanking,Mobile App,Rome,3185.46
+INV07174,2025-07-13 17:24:38,P0042,serve item,8,301.15,36160,Italy,Home Decor,PayPal,Online,Berlin,2409.2
+INV20619,2025-09-11 02:24:54,P0004,sound item,1,232.54,27633,Italy,Stationery,UPI,Retail Store,New York,232.54
+INV94764,2025-10-01 06:29:22,P0029,cold item,6,42.59,27014,Spain,Electronics,Card,Retail Store,Sydney,255.54000000000002
+INV68723,2025-10-14 18:41:24,P0018,before item,5,43.49,90532,Australia,Stationery,UPI,Mobile App,Paris,217.45000000000002
+INV00378,2025-11-14 16:08:51,P0026,water item,6,6.16,59104,France,Outdoor,UPI,Online,Amsterdam,36.96
+INV99647,2025-08-14 12:11:02,P0044,order item,5,484.01,51621,Australia,Outdoor,NetBanking,Online,Madrid,2420.05
+INV53975,2025-10-23 15:51:09,P0034,air item,6,7.6,87231,Spain,Outdoor,UPI,Retail Store,Amsterdam,45.599999999999994
+INV42190,2025-07-28 17:12:17,P0010,class item,5,56.03,78388,Italy,Stationery,NetBanking,Mobile App,Sydney,280.15
+INV22574,2025-08-15 18:28:32,P0036,their item,5,160.73,26014,Usa,Outdoor,PayPal,Online,London,803.65
+INV73553,2025-07-23 14:51:37,P0014,too item,4,404.68,43755,Germany,Home Decor,Card,Mobile App,Paris,1618.72
+INV18459,2025-10-01 22:44:06,P0031,admit item,3,481.24,50390,Usa,Outdoor,UPI,Online,Sydney,1443.72
+INV93368,2025-11-21 19:30:25,P0048,million item,3,396.06,33711,Usa,Kitchen,Card,Retail Store,London,1188.18
+INV29540,2025-08-23 13:48:48,P0015,team item,4,346.83,67993,Italy,Stationery,UPI,Retail Store,London,1387.32
+INV57502,2025-10-28 09:27:22,P0008,role item,9,263.04,84696,Australia,Kitchen,Card,Mobile App,Rome,2367.36
+INV59643,2025-09-05 04:19:09,P0014,hundred item,2,47.92,37213,Germany,Outdoor,UPI,Retail Store,Berlin,95.84
+INV46614,2025-11-10 10:21:43,P0023,condition item,9,479.29,67784,United Kingdom,Home Decor,UPI,Online,Rome,4313.610000000001
+INV46795,2025-08-09 04:28:45,P0040,financial item,1,380.4,17421,Netherlands,Electronics,UPI,Retail Store,Paris,380.4
+INV28238,2025-10-24 05:34:44,P0021,majority item,1,321.28,96936,Italy,Outdoor,UPI,Mobile App,London,321.28
+INV82894,2025-07-06 20:43:56,P0016,federal item,5,380.72,27727,Spain,Home Decor,UPI,Mobile App,New York,1903.6000000000001
+INV11733,2025-09-01 10:27:58,P0045,collection item,6,363.43,14358,United Kingdom,Stationery,UPI,Mobile App,Sydney,2180.58
+INV64065,2025-07-05 11:52:49,P0018,mrs item,6,320.43,75108,Netherlands,Kitchen,UPI,Online,Madrid,1922.58
+INV00286,2025-06-11 19:25:52,P0047,draw item,3,490.39,42117,Spain,Kitchen,UPI,Online,London,1471.17
+INV01254,2025-08-15 11:55:22,P0024,network item,7,452.17,98700,Usa,Kitchen,UPI,Online,Sydney,3165.19
+INV97923,2025-08-14 21:22:19,P0026,new item,9,325.1,41910,France,Stationery,Card,Online,New York,2925.9
+INV36525,2025-09-29 20:18:40,P0025,officer item,8,348.12,65754,Spain,Home Decor,NetBanking,Online,Madrid,2784.96
+INV29609,2025-08-15 19:50:48,P0045,cost item,6,30.54,72438,Germany,Stationery,UPI,Retail Store,Rome,183.24
+INV12015,2025-10-22 21:29:57,P0041,defense item,8,336.61,39371,Germany,Kitchen,NetBanking,Online,Rome,2692.88
+INV01580,2025-11-23 07:50:07,P0029,cover item,5,26.86,61501,France,Outdoor,UPI,Online,Berlin,134.3
+INV65955,2025-08-20 18:53:39,P0015,put item,8,296.19,70946,United Kingdom,Electronics,UPI,Retail Store,Sydney,2369.52
+INV49941,2025-06-17 02:34:49,P0045,tv item,4,499.68,48467,Netherlands,Stationery,Card,Online,London,1998.72
+INV53082,2025-10-27 23:41:12,P0001,talk item,8,280.12,27625,Spain,Stationery,PayPal,Mobile App,Amsterdam,2240.96
+INV43589,2025-07-06 01:07:54,P0025,officer item,2,239.24,43893,Germany,Home Decor,PayPal,Online,Rome,478.48
+INV12009,2025-11-30 15:02:54,P0007,real item,5,159.86,86329,United Kingdom,Home Decor,Card,Online,Rome,799.3000000000001
+INV35427,2025-10-02 14:46:54,P0009,forward item,9,64.66,41007,France,Stationery,NetBanking,Mobile App,Berlin,581.9399999999999
+INV80617,2025-09-24 20:46:32,P0024,they item,4,366.86,49532,Australia,Kitchen,PayPal,Mobile App,Madrid,1467.44
+INV55710,2025-11-04 03:42:11,P0001,magazine item,6,100.34,64253,Italy,Electronics,Card,Mobile App,Berlin,602.04
+INV74518,2025-10-20 17:57:18,P0044,two item,1,62.06,22323,Australia,Home Decor,Card,Mobile App,New York,62.06
+INV24577,2025-07-27 18:35:47,P0008,year item,9,213.77,83379,Australia,Kitchen,PayPal,Online,London,1923.93
+INV88810,2025-08-02 14:33:34,P0024,control item,1,398.69,24210,Germany,Outdoor,NetBanking,Mobile App,Sydney,398.69
+INV44006,2025-10-15 11:18:12,P0011,quite item,5,373.81,26456,Usa,Home Decor,Card,Mobile App,Paris,1869.05
+INV44566,2025-08-26 08:40:04,P0017,soon item,4,32.17,41367,Usa,Kitchen,UPI,Retail Store,Paris,128.68
+INV16193,2025-11-04 20:26:28,P0008,agree item,3,230.3,64624,France,Kitchen,NetBanking,Mobile App,Sydney,690.9000000000001
+INV19507,2025-10-14 20:09:46,P0035,society item,6,263.61,20106,Spain,Electronics,NetBanking,Mobile App,Madrid,1581.66
+INV79933,2025-06-20 11:00:13,P0035,miss item,2,324.05,78008,Usa,Electronics,PayPal,Retail Store,New York,648.1
+INV77713,2025-11-04 13:44:17,P0033,heart item,3,326.83,82240,Australia,Outdoor,PayPal,Retail Store,Rome,980.49
+INV68733,2025-08-25 10:24:48,P0005,significant item,5,185.53,74315,Usa,Kitchen,UPI,Online,Madrid,927.65
+INV66820,2025-08-04 20:40:19,P0042,exist item,9,282.54,79249,Australia,Kitchen,Card,Retail Store,Rome,2542.86
+INV27618,2025-08-11 20:38:59,P0039,risk item,2,243.13,80587,Netherlands,Electronics,PayPal,Online,Rome,486.26
+INV30840,2025-07-27 09:27:40,P0041,contain item,8,443.07,20756,Germany,Home Decor,PayPal,Retail Store,Paris,3544.56
+INV31201,2025-12-03 11:20:27,P0028,wrong item,2,267.48,78011,Germany,Home Decor,NetBanking,Retail Store,Madrid,534.96
+INV61566,2025-11-16 15:39:43,P0007,staff item,5,223.31,46378,Spain,Stationery,PayPal,Online,New York,1116.55
+INV39461,2025-08-22 13:55:11,P0009,station item,7,205.22,14255,Usa,Electronics,PayPal,Retail Store,Berlin,1436.54
+INV48825,2025-07-14 19:25:27,P0008,drug item,8,288.35,24484,Usa,Stationery,PayPal,Online,Rome,2306.8
+INV54645,2025-12-01 05:32:30,P0012,run item,1,402.97,66549,Italy,Electronics,PayPal,Retail Store,Amsterdam,402.97
+INV56792,2025-09-03 00:09:50,P0034,education item,6,271.51,44503,United Kingdom,Outdoor,NetBanking,Mobile App,Amsterdam,1629.06
+INV21669,2025-09-18 14:14:19,P0033,investment item,1,332.52,83794,Netherlands,Kitchen,UPI,Retail Store,Berlin,332.52
+INV67356,2025-07-10 06:15:34,P0048,while item,2,370.24,55113,Germany,Outdoor,UPI,Online,Amsterdam,740.48
+INV28311,2025-10-10 04:18:38,P0023,nor item,1,262.48,84069,Netherlands,Electronics,Card,Retail Store,London,262.48
+INV20066,2025-11-01 02:01:32,P0024,green item,5,216.27,15249,Germany,Kitchen,PayPal,Online,Rome,1081.3500000000001
+INV70548,2025-10-31 13:11:57,P0037,administration item,9,438.95,29201,Netherlands,Home Decor,NetBanking,Online,Berlin,3950.5499999999997
+INV97122,2025-08-13 09:43:35,P0035,player item,6,211.67,68576,France,Home Decor,Card,Mobile App,Madrid,1270.02
+INV96335,2025-10-17 05:22:56,P0044,minute item,1,233.66,19686,Australia,Stationery,Card,Mobile App,Rome,233.66
+INV25476,2025-09-24 01:21:57,P0040,sport item,1,495.22,63363,Germany,Electronics,UPI,Online,Berlin,495.22
+INV81962,2025-09-26 15:56:39,P0022,present item,2,5.12,10661,Netherlands,Electronics,NetBanking,Retail Store,Paris,10.24
+INV94365,2025-10-16 18:19:22,P0027,property item,9,96.81,54843,Usa,Home Decor,NetBanking,Online,New York,871.29
+INV11368,2025-08-30 17:47:33,P0035,approach item,3,195.06,70963,United Kingdom,Outdoor,NetBanking,Online,Madrid,585.1800000000001
+INV82086,2025-07-18 23:40:07,P0001,industry item,1,466.63,52828,France,Kitchen,UPI,Retail Store,New York,466.63
+INV46520,2025-09-20 07:38:26,P0035,collection item,5,39.66,58604,France,Outdoor,UPI,Retail Store,Paris,198.29999999999998
+INV69382,2025-07-22 11:44:19,P0037,society item,7,9.7,20526,United Kingdom,Outdoor,UPI,Retail Store,Rome,67.89999999999999
+INV86091,2025-06-12 21:58:42,P0047,hand item,6,31.08,78910,Netherlands,Home Decor,UPI,Retail Store,Madrid,186.48
+INV86610,2025-09-14 19:27:09,P0014,become item,1,48.83,35592,Usa,Home Decor,UPI,Online,New York,48.83
+INV68696,2025-12-06 13:09:26,P0003,natural item,5,23.61,38982,Spain,Home Decor,PayPal,Online,Amsterdam,118.05
+INV24508,2025-11-11 17:16:26,P0001,social item,5,242.49,10207,United Kingdom,Stationery,PayPal,Mobile App,New York,1212.45
+INV82904,2025-09-08 12:17:13,P0005,listen item,6,292.47,98733,Netherlands,Outdoor,NetBanking,Online,Berlin,1754.8200000000002
+INV52158,2025-10-15 23:22:00,P0026,lay item,3,139.49,78619,United Kingdom,Electronics,Card,Retail Store,Rome,418.47
+INV16339,2025-08-31 20:19:14,P0014,team item,5,202.15,39328,United Kingdom,Kitchen,NetBanking,Mobile App,London,1010.75
+INV31526,2025-08-08 05:58:49,P0039,billion item,7,50.39,56479,Germany,Stationery,Card,Retail Store,New York,352.73
+INV15745,2025-11-01 12:45:02,P0027,give item,5,171.5,30103,Netherlands,Electronics,UPI,Online,Madrid,857.5
+INV20151,2025-10-20 21:28:45,P0009,serious item,5,263.65,49891,Spain,Outdoor,Card,Mobile App,Madrid,1318.25
+INV05603,2025-09-02 12:23:32,P0015,south item,5,367.47,20754,Australia,Home Decor,NetBanking,Retail Store,Sydney,1837.3500000000001
+INV94073,2025-11-21 16:56:56,P0015,half item,3,6.66,91437,Germany,Outdoor,NetBanking,Mobile App,New York,19.98
+INV90238,2025-07-09 21:41:08,P0026,couple item,1,236.32,82982,United Kingdom,Kitchen,Card,Mobile App,Rome,236.32
+INV19455,2025-10-30 23:54:51,P0042,thousand item,5,152.02,65922,Australia,Stationery,PayPal,Online,Rome,760.1
+INV63098,2025-08-21 19:42:36,P0013,culture item,9,427.15,58231,Italy,Stationery,UPI,Retail Store,Paris,3844.35
+INV42913,2025-10-08 07:32:58,P0032,food item,1,359.2,39301,Australia,Kitchen,UPI,Mobile App,Sydney,359.2
+INV12808,2025-10-27 11:10:15,P0039,morning item,3,296.61,72711,United Kingdom,Electronics,NetBanking,Mobile App,New York,889.83
+INV37938,2025-11-27 09:52:37,P0049,parent item,4,142.25,51323,United Kingdom,Electronics,PayPal,Retail Store,Amsterdam,569.0
+INV26512,2025-08-03 20:39:58,P0032,hear item,1,455.62,28752,Usa,Stationery,Card,Mobile App,Paris,455.62
+INV17691,2025-10-27 17:29:11,P0004,over item,1,27.32,92205,Netherlands,Stationery,UPI,Mobile App,Sydney,27.32
+INV75389,2025-07-26 10:25:53,P0030,note item,8,59.19,23395,Netherlands,Home Decor,PayPal,Mobile App,New York,473.52
+INV35649,2025-06-19 21:07:20,P0037,couple item,2,198.86,95957,Germany,Electronics,UPI,Retail Store,New York,397.72
+INV52881,2025-11-29 02:44:42,P0023,everyone item,8,66.6,66273,Spain,Kitchen,PayPal,Retail Store,Paris,532.8
+INV11291,2025-10-23 12:23:56,P0039,expert item,7,478.43,14895,Germany,Electronics,PayPal,Retail Store,Amsterdam,3349.01
+INV62475,2025-07-28 20:51:26,P0045,rest item,2,400.0,86559,France,Home Decor,NetBanking,Retail Store,Sydney,800.0
+INV90290,2025-10-09 20:32:58,P0015,we item,6,133.2,20699,United Kingdom,Stationery,UPI,Online,New York,799.1999999999999
+INV64794,2025-09-22 09:05:58,P0043,rock item,6,296.33,75061,Australia,Stationery,Card,Mobile App,New York,1777.98
+INV17831,2025-10-11 15:36:43,P0029,somebody item,3,491.25,19715,Italy,Home Decor,NetBanking,Retail Store,Sydney,1473.75
+INV37326,2025-11-11 20:18:19,P0036,describe item,2,442.68,29169,United Kingdom,Kitchen,NetBanking,Mobile App,London,885.36
+INV89027,2025-10-04 06:09:52,P0013,three item,1,302.4,26163,United Kingdom,Stationery,Card,Mobile App,Paris,302.4
+INV18537,2025-08-12 12:29:34,P0032,prepare item,6,452.34,15782,Germany,Outdoor,NetBanking,Online,Paris,2714.04
+INV51973,2025-07-17 23:00:17,P0007,space item,5,494.65,98177,Italy,Stationery,PayPal,Retail Store,Madrid,2473.25
+INV02339,2025-09-14 17:08:31,P0022,measure item,9,372.96,94328,Italy,Outdoor,PayPal,Retail Store,Amsterdam,3356.64
+INV04414,2025-11-11 23:27:33,P0028,impact item,1,37.17,45585,Italy,Home Decor,UPI,Mobile App,Berlin,37.17
+INV28835,2025-11-18 19:25:45,P0002,hand item,7,203.78,40682,Germany,Home Decor,UPI,Retail Store,London,1426.46
+INV70527,2025-10-11 04:47:34,P0042,movement item,5,419.72,57864,United Kingdom,Stationery,Card,Mobile App,Sydney,2098.6000000000004
+INV74390,2025-07-27 15:17:14,P0045,daughter item,5,119.13,94416,Germany,Electronics,UPI,Mobile App,Sydney,595.65
+INV11806,2025-08-13 20:48:07,P0006,like item,2,416.17,65114,Netherlands,Outdoor,PayPal,Online,Sydney,832.34
+INV66448,2025-10-31 16:19:04,P0028,hotel item,3,64.57,48067,Netherlands,Kitchen,Card,Online,London,193.70999999999998
+INV76793,2025-11-27 13:50:26,P0028,democrat item,7,28.24,52685,Germany,Stationery,Card,Online,New York,197.67999999999998
+INV02388,2025-08-02 04:38:33,P0044,wait item,6,195.12,28073,Italy,Kitchen,UPI,Mobile App,Sydney,1170.72
+INV33518,2025-06-24 03:15:41,P0044,air item,2,23.18,46035,Usa,Stationery,PayPal,Retail Store,Sydney,46.36
+INV74747,2025-09-20 00:26:03,P0020,country item,6,478.85,74977,United Kingdom,Electronics,Card,Online,Amsterdam,2873.1000000000004
+INV56346,2025-06-15 11:33:08,P0030,table item,2,413.97,93362,Germany,Electronics,PayPal,Retail Store,Rome,827.94
+INV93997,2025-10-04 04:17:50,P0011,surface item,2,401.38,75450,Germany,Electronics,PayPal,Online,Rome,802.76
+INV84653,2025-10-20 16:52:04,P0028,federal item,2,316.74,20382,Germany,Electronics,PayPal,Online,Madrid,633.48
+INV44771,2025-12-02 07:20:21,P0025,provide item,3,112.08,14437,Usa,Home Decor,UPI,Mobile App,Madrid,336.24
+INV05467,2025-10-13 17:04:01,P0039,discussion item,2,261.54,80971,Usa,Home Decor,NetBanking,Online,Sydney,523.08
+INV73542,2025-07-17 14:10:13,P0033,both item,4,300.65,74612,France,Outdoor,NetBanking,Online,Amsterdam,1202.6
+INV20483,2025-07-20 11:06:31,P0001,view item,9,264.89,71929,Netherlands,Kitchen,Card,Mobile App,Sydney,2384.0099999999998
+INV97092,2025-09-02 17:13:13,P0027,enough item,6,133.82,22329,Australia,Stationery,PayPal,Retail Store,Madrid,802.92
+INV16073,2025-09-12 09:40:24,P0013,main item,1,260.05,35169,Italy,Stationery,UPI,Online,London,260.05
+INV84553,2025-10-11 02:02:25,P0041,fund item,8,248.14,97468,Spain,Home Decor,PayPal,Mobile App,London,1985.12
+INV84104,2025-06-12 22:57:03,P0003,operation item,7,498.19,44594,Usa,Stationery,PayPal,Online,New York,3487.33
+INV87095,2025-11-15 15:28:59,P0039,represent item,3,449.23,86957,Australia,Home Decor,UPI,Mobile App,Berlin,1347.69
+INV28261,2025-07-11 23:45:27,P0006,nearly item,1,234.37,70631,Usa,Outdoor,NetBanking,Retail Store,Rome,234.37
+INV05145,2025-08-22 00:02:49,P0008,end item,5,313.35,55033,Italy,Kitchen,PayPal,Retail Store,Amsterdam,1566.75
+INV07530,2025-07-12 04:56:32,P0027,most item,4,375.2,73133,Spain,Outdoor,PayPal,Mobile App,Paris,1500.8
+INV43413,2025-10-29 05:35:24,P0009,little item,8,22.26,83165,France,Electronics,NetBanking,Mobile App,Rome,178.08
+INV64134,2025-06-16 02:55:32,P0037,off item,1,447.99,83861,Germany,Electronics,UPI,Mobile App,Paris,447.99
+INV84163,2025-10-27 13:16:21,P0033,think item,1,430.76,62290,France,Electronics,Card,Retail Store,Berlin,430.76
+INV07613,2025-07-11 08:41:34,P0042,senior item,4,231.43,41750,Usa,Outdoor,NetBanking,Online,Berlin,925.72
+INV08156,2025-07-27 04:18:42,P0044,wait item,8,198.63,50461,France,Stationery,Card,Retail Store,Sydney,1589.04
+INV71689,2025-08-23 14:17:52,P0024,decide item,5,140.11,83800,Australia,Kitchen,Card,Mobile App,Madrid,700.5500000000001
+INV42521,2025-11-21 22:08:57,P0015,evening item,2,240.96,88222,United Kingdom,Electronics,NetBanking,Mobile App,Berlin,481.92
+INV12972,2025-08-19 16:41:19,P0032,red item,6,26.97,34226,Usa,Electronics,PayPal,Retail Store,Berlin,161.82
+INV66303,2025-12-01 15:00:56,P0032,body item,5,426.84,16721,Usa,Electronics,Card,Mobile App,Paris,2134.2
+INV86454,2025-07-04 02:08:11,P0024,great item,2,22.53,66154,Australia,Kitchen,Card,Retail Store,Madrid,45.06
+INV48471,2025-08-12 18:58:22,P0041,wide item,3,167.88,30609,Netherlands,Electronics,UPI,Mobile App,Berlin,503.64
+INV34078,2025-07-24 17:49:16,P0049,home item,9,466.14,62130,Spain,Kitchen,PayPal,Online,Rome,4195.26
+INV71119,2025-08-11 15:56:27,P0049,some item,7,368.93,82909,Germany,Electronics,Card,Online,New York,2582.51
+INV23339,2025-07-13 17:05:26,P0012,friend item,7,144.29,65249,Australia,Outdoor,UPI,Mobile App,Berlin,1010.03
+INV71372,2025-06-26 14:41:14,P0039,piece item,6,130.06,58895,Spain,Outdoor,PayPal,Retail Store,New York,780.36
+INV63366,2025-08-29 16:20:40,P0002,medical item,8,7.52,15656,Italy,Kitchen,NetBanking,Online,Madrid,60.16
+INV10527,2025-08-12 13:42:40,P0003,old item,4,349.38,84520,Spain,Outdoor,NetBanking,Retail Store,Sydney,1397.52
+INV06562,2025-09-14 22:55:54,P0049,poor item,8,29.15,73740,Italy,Kitchen,UPI,Mobile App,Amsterdam,233.2
+INV21668,2025-10-11 23:44:14,P0037,policy item,4,268.64,74309,Australia,Outdoor,NetBanking,Retail Store,Madrid,1074.56
+INV21210,2025-09-25 07:18:51,P0049,drop item,8,481.25,39984,Usa,Outdoor,Card,Online,Paris,3850.0
+INV73316,2025-10-23 00:58:43,P0017,either item,9,59.19,83822,Usa,Kitchen,PayPal,Retail Store,Amsterdam,532.71
+INV42998,2025-08-11 08:14:39,P0049,campaign item,3,447.77,15901,Netherlands,Stationery,Card,Retail Store,Rome,1343.31
+INV66895,2025-11-21 02:28:29,P0002,walk item,3,495.78,41552,Australia,Outdoor,Card,Mobile App,London,1487.34
+INV93678,2025-08-28 11:46:25,P0002,peace item,2,35.45,41055,Italy,Electronics,NetBanking,Mobile App,New York,70.9
+INV98882,2025-07-27 15:45:59,P0028,game item,3,442.04,47685,Spain,Stationery,Card,Mobile App,New York,1326.1200000000001
+INV61312,2025-08-25 20:02:36,P0023,remain item,3,260.46,83965,Spain,Kitchen,NetBanking,Online,New York,781.3799999999999
+INV40581,2025-08-12 05:39:07,P0037,evidence item,5,453.72,24716,Italy,Stationery,PayPal,Online,Madrid,2268.6000000000004
+INV98243,2025-08-02 10:50:22,P0032,floor item,5,287.8,21138,France,Home Decor,PayPal,Mobile App,New York,1439.0
+INV27599,2025-11-01 06:22:21,P0033,agreement item,2,332.75,45298,Netherlands,Home Decor,Card,Mobile App,Sydney,665.5
+INV31266,2025-11-13 04:03:48,P0001,unit item,6,274.17,61112,United Kingdom,Outdoor,UPI,Online,New York,1645.02
+INV07174,2025-12-06 02:41:51,P0019,still item,5,432.92,33429,Usa,Outdoor,NetBanking,Online,Paris,2164.6
+INV22456,2025-11-23 14:09:16,P0002,management item,6,368.29,60200,Germany,Electronics,NetBanking,Online,Rome,2209.7400000000002
+INV70340,2025-11-12 02:14:14,P0044,least item,1,263.02,81308,Spain,Stationery,Card,Online,New York,263.02
+INV88759,2025-10-09 10:42:10,P0026,relate item,5,434.74,58244,Germany,Home Decor,NetBanking,Mobile App,New York,2173.7
+INV92835,2025-08-28 02:49:26,P0032,hit item,9,126.42,27347,United Kingdom,Outdoor,NetBanking,Online,Amsterdam,1137.78
+INV00378,2025-10-14 22:27:38,P0006,sit item,2,82.88,26920,Australia,Stationery,UPI,Mobile App,Rome,165.76
+INV05447,2025-08-24 13:18:10,P0032,throw item,1,84.4,41822,Germany,Outdoor,UPI,Retail Store,New York,84.4
+INV59698,2025-09-16 09:58:23,P0004,space item,9,170.33,56659,United Kingdom,Outdoor,Card,Retail Store,Madrid,1532.97
+INV30535,2025-10-31 14:22:08,P0011,those item,9,123.15,50108,Usa,Home Decor,UPI,Online,Berlin,1108.3500000000001
+INV61347,2025-12-02 19:45:35,P0017,worker item,9,465.39,99099,Italy,Home Decor,Card,Retail Store,Sydney,4188.51
+INV45745,2025-11-19 08:49:31,P0038,world item,6,57.39,17967,France,Outdoor,PayPal,Retail Store,Madrid,344.34000000000003
+INV02988,2025-06-30 08:56:08,P0024,responsibility item,8,351.0,21871,Usa,Kitchen,Card,Retail Store,London,2808.0
+INV44237,2025-09-01 23:27:39,P0005,rest item,1,98.66,87452,Spain,Outdoor,PayPal,Online,Madrid,98.66
+INV44547,2025-09-04 07:33:28,P0034,lot item,4,441.41,84270,United Kingdom,Outdoor,Card,Online,Amsterdam,1765.64
+INV02040,2025-07-24 12:35:43,P0006,method item,1,480.85,43613,Germany,Electronics,NetBanking,Retail Store,Amsterdam,480.85
+INV69777,2025-07-08 10:18:13,P0022,month item,8,235.41,38179,Spain,Electronics,UPI,Mobile App,New York,1883.28
+INV30249,2025-09-25 05:58:55,P0011,cause item,1,440.14,62188,France,Electronics,PayPal,Retail Store,Madrid,440.14
+INV20789,2025-11-16 08:50:20,P0048,among item,3,7.55,65099,Italy,Kitchen,Card,Online,Amsterdam,22.65
+INV37225,2025-08-22 00:31:39,P0016,agency item,4,410.87,45262,Australia,Kitchen,UPI,Online,Berlin,1643.48
+INV41528,2025-06-17 19:56:26,P0033,prove item,8,118.17,88213,Spain,Outdoor,Card,Online,Rome,945.36
+INV99123,2025-07-10 06:36:51,P0009,minute item,6,454.81,28268,Australia,Electronics,UPI,Retail Store,Madrid,2728.86
+INV53838,2025-08-23 02:38:35,P0006,market item,7,5.55,87866,United Kingdom,Kitchen,UPI,Mobile App,Sydney,38.85
+INV48365,2025-10-17 17:03:50,P0016,speech item,8,280.31,96269,France,Home Decor,Card,Online,Berlin,2242.48
+INV42280,2025-08-22 08:28:28,P0029,particular item,2,379.53,70545,Germany,Outdoor,PayPal,Online,New York,759.06
+INV84487,2025-10-28 16:41:25,P0003,mother item,8,133.05,82146,France,Stationery,PayPal,Retail Store,Rome,1064.4
+INV24399,2025-10-24 23:02:33,P0020,remain item,3,100.6,81966,France,Outdoor,NetBanking,Mobile App,Sydney,301.79999999999995
+INV96931,2025-07-01 22:39:34,P0036,candidate item,7,46.63,49922,Netherlands,Stationery,UPI,Retail Store,New York,326.41
+INV38952,2025-06-15 00:55:44,P0019,walk item,3,166.58,89364,France,Electronics,NetBanking,Online,Sydney,499.74
+INV26676,2025-07-26 23:50:46,P0026,sport item,7,282.12,52913,France,Stationery,NetBanking,Mobile App,New York,1974.8400000000001
+INV46635,2025-06-16 03:14:40,P0003,sense item,2,62.34,65677,Usa,Electronics,Card,Mobile App,Sydney,124.68
+INV67145,2025-08-29 05:39:56,P0019,for item,6,191.46,59841,Spain,Home Decor,Card,Online,Rome,1148.76
+INV06183,2025-08-22 14:52:16,P0020,scientist item,3,9.49,56332,Germany,Stationery,Card,Mobile App,Berlin,28.47
+INV48466,2025-08-12 15:27:04,P0032,hot item,3,410.25,35032,Usa,Outdoor,UPI,Mobile App,Sydney,1230.75
+INV61132,2025-06-18 14:52:51,P0007,action item,9,68.58,47846,Usa,Electronics,Card,Retail Store,Sydney,617.22
+INV48993,2025-11-23 00:09:16,P0041,sing item,7,145.25,69474,Spain,Outdoor,Card,Online,Paris,1016.75
+INV09619,2025-11-14 09:03:36,P0033,station item,5,14.12,54936,Spain,Kitchen,UPI,Online,Madrid,70.6
+INV74487,2025-12-03 23:00:01,P0040,marriage item,7,218.96,39794,United Kingdom,Electronics,UPI,Online,Rome,1532.72
+INV07256,2025-09-14 11:52:48,P0039,do item,9,420.86,71588,Spain,Stationery,PayPal,Online,New York,3787.7400000000002
+INV56395,2025-10-13 03:12:22,P0018,fear item,1,199.11,80984,Netherlands,Electronics,Card,Online,Rome,199.11
+INV52363,2025-06-12 18:55:54,P0040,cover item,7,93.85,60331,Netherlands,Outdoor,Card,Mobile App,Amsterdam,656.9499999999999
+INV34671,2025-07-14 13:48:44,P0001,i item,6,378.08,38141,Usa,Home Decor,Card,Retail Store,New York,2268.48
+INV38773,2025-09-04 22:17:04,P0011,else item,9,395.46,19074,Australia,Electronics,PayPal,Online,Rome,3559.14
+INV72344,2025-07-08 06:37:35,P0028,school item,1,91.01,16406,United Kingdom,Stationery,Card,Retail Store,Berlin,91.01
+INV05895,2025-08-28 01:53:18,P0025,firm item,4,386.57,33291,Australia,Kitchen,PayPal,Retail Store,New York,1546.28
+INV97924,2025-08-13 11:50:27,P0050,reduce item,9,473.91,51568,Australia,Home Decor,NetBanking,Mobile App,New York,4265.1900000000005
+INV84797,2025-11-21 23:21:16,P0023,image item,4,87.36,56851,Usa,Kitchen,PayPal,Online,Rome,349.44
+INV67717,2025-06-14 09:42:43,P0031,total item,3,386.64,64823,Italy,Electronics,NetBanking,Mobile App,New York,1159.92
+INV16449,2025-10-06 16:32:58,P0030,arrive item,9,355.74,33312,Usa,Outdoor,Card,Online,Paris,3201.66
+INV64763,2025-09-30 01:23:05,P0042,show item,2,239.42,53108,Germany,Outdoor,NetBanking,Mobile App,Madrid,478.84
+INV77849,2025-09-14 22:02:15,P0035,interesting item,4,33.67,76918,Germany,Stationery,PayPal,Retail Store,New York,134.68
+INV78492,2025-08-25 10:33:13,P0007,itself item,6,41.97,44171,Spain,Outdoor,UPI,Online,Madrid,251.82
+INV27722,2025-08-22 04:00:32,P0016,relationship item,2,426.95,51779,Spain,Home Decor,NetBanking,Retail Store,Rome,853.9
+INV20238,2025-08-08 08:33:21,P0026,yet item,8,495.12,78828,Italy,Outdoor,NetBanking,Retail Store,Sydney,3960.96
+INV71802,2025-06-25 21:06:36,P0048,give item,8,339.65,22411,Spain,Stationery,Card,Mobile App,London,2717.2
+INV23574,2025-06-25 04:21:05,P0049,fly item,1,225.75,67009,Germany,Electronics,PayPal,Online,London,225.75
+INV39291,2025-12-03 06:14:05,P0002,responsibility item,3,325.55,25422,Australia,Electronics,NetBanking,Retail Store,Sydney,976.6500000000001
+INV16128,2025-11-24 17:32:10,P0001,talk item,9,299.23,52468,Usa,Outdoor,NetBanking,Mobile App,Sydney,2693.07
+INV65685,2025-10-28 22:55:35,P0048,foot item,5,194.89,42371,France,Kitchen,NetBanking,Online,Sydney,974.4499999999999
+INV94894,2025-09-12 09:43:19,P0012,company item,6,37.48,67022,Netherlands,Electronics,NetBanking,Online,Berlin,224.88
+INV89375,2025-11-25 13:06:52,P0005,scientist item,4,411.65,81229,France,Outdoor,UPI,Retail Store,London,1646.6
+INV13819,2025-11-07 22:38:22,P0037,account item,2,189.06,61196,France,Stationery,PayPal,Online,Sydney,378.12
+INV95135,2025-08-29 09:52:19,P0032,might item,8,410.3,90354,Germany,Outdoor,Card,Retail Store,Berlin,3282.4
+INV59017,2025-09-14 10:00:21,P0009,evening item,6,129.99,36715,France,Electronics,Card,Online,Amsterdam,779.94
+INV30143,2025-07-08 17:04:45,P0041,commercial item,5,5.51,37605,Usa,Stationery,UPI,Mobile App,New York,27.549999999999997
+INV46017,2025-11-21 15:23:04,P0035,bill item,9,83.67,41174,Italy,Outdoor,PayPal,Retail Store,Berlin,753.03
+INV55131,2025-06-23 02:51:50,P0019,knowledge item,1,236.93,19956,United Kingdom,Home Decor,NetBanking,Retail Store,London,236.93
+INV23349,2025-10-29 05:03:34,P0048,economic item,5,472.43,86373,Spain,Stationery,UPI,Online,Rome,2362.15
+INV21850,2025-09-01 08:04:38,P0016,draw item,6,55.59,79252,United Kingdom,Home Decor,PayPal,Online,Amsterdam,333.54
+INV35405,2025-06-21 19:15:06,P0003,administration item,5,427.83,71949,Australia,Kitchen,NetBanking,Retail Store,London,2139.15
+INV03273,2025-09-06 16:43:24,P0020,only item,6,265.88,72646,Usa,Stationery,UPI,Online,New York,1595.28
+INV85174,2025-09-30 10:37:39,P0024,some item,6,413.83,80017,Usa,Home Decor,PayPal,Mobile App,Berlin,2482.98
+INV44539,2025-07-10 11:58:01,P0033,interview item,7,152.7,73037,Netherlands,Electronics,Card,Online,Paris,1068.8999999999999
+INV65003,2025-10-05 19:44:42,P0024,budget item,4,420.77,99818,Usa,Electronics,Card,Mobile App,Madrid,1683.08
+INV05215,2025-07-16 18:47:51,P0011,produce item,8,387.55,16548,Spain,Kitchen,PayPal,Mobile App,New York,3100.4
+INV73644,2025-06-20 23:14:48,P0049,week item,7,118.88,83294,Usa,Stationery,Card,Mobile App,London,832.16
+INV94229,2025-10-31 13:15:34,P0008,executive item,9,70.01,33177,France,Stationery,PayPal,Mobile App,Sydney,630.09
+INV41446,2025-08-16 23:29:29,P0036,interesting item,7,434.69,34022,Netherlands,Stationery,NetBanking,Mobile App,Berlin,3042.83
+INV57455,2025-09-15 08:15:30,P0038,pressure item,3,481.8,15542,Spain,Kitchen,PayPal,Online,Sydney,1445.4
+INV84595,2025-09-08 04:30:32,P0040,question item,3,20.49,70428,Italy,Stationery,NetBanking,Mobile App,Sydney,61.47
+INV06682,2025-08-30 07:48:00,P0020,minute item,8,366.98,32740,Italy,Electronics,UPI,Online,Sydney,2935.84
+INV78932,2025-12-05 16:36:32,P0035,join item,5,455.21,69353,Italy,Home Decor,PayPal,Mobile App,Sydney,2276.0499999999997
+INV61603,2025-07-28 13:27:31,P0048,send item,4,429.39,66532,Italy,Electronics,UPI,Retail Store,Sydney,1717.56
+INV81315,2025-06-20 04:28:16,P0025,until item,8,482.44,26052,France,Electronics,Card,Mobile App,Amsterdam,3859.52
+INV15734,2025-09-13 01:45:07,P0035,whether item,6,381.25,57076,Usa,Home Decor,NetBanking,Retail Store,London,2287.5
+INV33091,2025-07-21 05:48:41,P0025,so item,2,223.94,63420,United Kingdom,Electronics,PayPal,Mobile App,New York,447.88
+INV05478,2025-11-01 20:33:27,P0029,physical item,4,159.42,10671,Spain,Kitchen,UPI,Mobile App,London,637.68
+INV12763,2025-11-25 11:55:14,P0018,high item,4,163.77,10163,France,Home Decor,NetBanking,Mobile App,New York,655.08
+INV84883,2025-07-22 12:01:15,P0046,may item,6,363.59,51424,Italy,Electronics,NetBanking,Retail Store,Madrid,2181.54
+INV46631,2025-10-10 12:26:13,P0018,direction item,6,374.19,63744,Australia,Outdoor,Card,Retail Store,Berlin,2245.14
+INV41342,2025-10-30 21:48:19,P0002,compare item,1,104.18,80331,Usa,Electronics,Card,Mobile App,Paris,104.18
+INV05404,2025-10-31 08:00:28,P0035,well item,8,434.72,20634,United Kingdom,Kitchen,NetBanking,Online,Amsterdam,3477.76
+INV04811,2025-08-01 10:38:35,P0016,until item,6,358.89,14798,Australia,Stationery,NetBanking,Mobile App,Berlin,2153.34
+INV05753,2025-09-22 10:35:30,P0041,in item,3,283.56,32420,Netherlands,Electronics,PayPal,Retail Store,Amsterdam,850.6800000000001
+INV77120,2025-10-24 12:10:43,P0036,cup item,9,238.41,39300,Australia,Stationery,NetBanking,Mobile App,New York,2145.69
+INV76288,2025-09-26 20:06:10,P0033,everything item,2,273.9,99881,Netherlands,Outdoor,PayPal,Retail Store,London,547.8
+INV81524,2025-11-29 17:17:19,P0004,market item,8,83.83,20749,Netherlands,Electronics,NetBanking,Retail Store,Sydney,670.64
+INV39842,2025-08-28 21:49:43,P0033,executive item,3,105.83,35121,Italy,Home Decor,Card,Retail Store,Madrid,317.49
+INV83688,2025-06-12 23:11:36,P0014,already item,5,50.13,47487,Netherlands,Stationery,PayPal,Mobile App,Madrid,250.65
+INV99149,2025-10-19 07:31:03,P0021,pass item,6,81.06,43361,Germany,Outdoor,UPI,Retail Store,Rome,486.36
+INV60186,2025-11-28 21:31:08,P0048,face item,6,229.58,31223,Spain,Home Decor,Card,Retail Store,Paris,1377.48
+INV04302,2025-11-05 04:27:45,P0020,attack item,4,267.53,82930,Spain,Home Decor,PayPal,Mobile App,Madrid,1070.12
+INV46359,2025-08-30 00:01:05,P0008,visit item,3,13.84,24056,Italy,Home Decor,PayPal,Retail Store,Sydney,41.519999999999996
+INV62212,2025-10-28 07:32:40,P0007,season item,4,399.41,38380,Germany,Home Decor,UPI,Mobile App,London,1597.64
+INV68386,2025-11-26 16:46:44,P0003,reach item,1,150.61,36035,Australia,Electronics,PayPal,Retail Store,Paris,150.61
+INV99705,2025-08-14 06:37:35,P0017,knowledge item,4,456.36,40620,France,Electronics,NetBanking,Online,New York,1825.44
+INV13373,2025-11-09 13:39:44,P0033,garden item,1,483.92,29877,Australia,Electronics,UPI,Online,Berlin,483.92
+INV34272,2025-08-25 03:50:58,P0048,perhaps item,1,96.8,65316,Usa,Outdoor,Card,Retail Store,New York,96.8
+INV34328,2025-07-09 11:09:08,P0012,in item,6,233.74,74041,France,Outdoor,Card,Online,Sydney,1402.44
+INV07580,2025-08-09 14:01:18,P0022,short item,5,5.61,63352,Netherlands,Outdoor,NetBanking,Mobile App,Sydney,28.05
+INV60002,2025-11-03 13:41:47,P0022,job item,4,301.17,40911,United Kingdom,Kitchen,Card,Online,Madrid,1204.68
+INV43686,2025-08-26 19:20:24,P0046,watch item,3,305.62,42784,France,Outdoor,PayPal,Retail Store,Paris,916.86
+INV68022,2025-08-23 17:51:12,P0030,decade item,1,127.53,13191,United Kingdom,Electronics,PayPal,Retail Store,London,127.53
+INV66761,2025-08-23 11:01:18,P0038,then item,6,281.41,43160,Spain,Electronics,NetBanking,Mobile App,New York,1688.46
+INV83179,2025-07-24 20:53:58,P0038,lose item,2,116.64,74641,United Kingdom,Kitchen,Card,Retail Store,Rome,233.28
+INV74920,2025-09-12 01:55:07,P0045,because item,8,84.61,59723,Spain,Kitchen,Card,Mobile App,New York,676.88
+INV44926,2025-10-13 14:11:05,P0008,position item,5,327.5,13631,Germany,Outdoor,NetBanking,Online,Amsterdam,1637.5
+INV48149,2025-10-11 01:09:52,P0027,other item,7,166.33,16172,Germany,Stationery,UPI,Online,Amsterdam,1164.3100000000002
+INV35914,2025-07-04 15:01:17,P0027,everything item,2,297.18,52080,Italy,Kitchen,Card,Mobile App,London,594.36
+INV61389,2025-10-15 13:46:12,P0034,quality item,8,219.46,99097,Italy,Home Decor,UPI,Mobile App,London,1755.68
+INV24012,2025-08-13 14:14:00,P0021,really item,2,492.25,30281,Netherlands,Electronics,Card,Retail Store,Amsterdam,984.5
+INV88663,2025-10-04 07:42:15,P0030,close item,4,79.04,38671,France,Home Decor,Card,Online,Rome,316.16
+INV30995,2025-06-28 03:19:31,P0033,pattern item,1,234.98,61431,Netherlands,Electronics,Card,Mobile App,Paris,234.98
+INV56107,2025-08-22 14:26:00,P0028,fly item,5,341.83,38602,Spain,Electronics,Card,Online,Amsterdam,1709.1499999999999
+INV23318,2025-12-02 13:39:39,P0047,cold item,9,200.79,98789,Netherlands,Kitchen,PayPal,Mobile App,London,1807.11
+INV53746,2025-08-23 00:33:51,P0033,lead item,1,487.48,61399,United Kingdom,Kitchen,UPI,Online,Madrid,487.48
+INV90575,2025-09-25 14:08:53,P0005,new item,9,362.33,33472,Spain,Home Decor,UPI,Retail Store,Berlin,3260.97
+INV68348,2025-08-19 06:44:52,P0048,power item,8,330.21,59230,Italy,Electronics,Card,Online,Rome,2641.68
+INV28097,2025-06-12 06:11:05,P0019,woman item,6,379.74,83616,Germany,Home Decor,Card,Online,Sydney,2278.44
+INV38923,2025-12-04 12:12:18,P0004,project item,7,476.56,17099,Italy,Stationery,UPI,Online,Rome,3335.92
+INV99142,2025-11-29 11:01:25,P0035,pressure item,3,454.37,35431,France,Home Decor,PayPal,Online,Madrid,1363.1100000000001
+INV30485,2025-06-12 01:54:21,P0049,line item,1,363.52,66492,Spain,Outdoor,NetBanking,Online,Madrid,363.52
+INV08925,2025-10-27 10:22:05,P0017,hold item,5,375.84,57684,Spain,Home Decor,NetBanking,Retail Store,Sydney,1879.1999999999998
+INV27437,2025-07-14 01:58:56,P0044,hit item,2,77.23,40111,United Kingdom,Outdoor,UPI,Mobile App,New York,154.46
+INV19472,2025-11-28 00:14:29,P0028,trial item,5,55.88,73936,France,Outdoor,Card,Online,London,279.40000000000003
+INV64067,2025-07-16 15:04:55,P0030,somebody item,8,287.6,32614,Germany,Outdoor,Card,Retail Store,Amsterdam,2300.8
+INV53524,2025-06-28 09:43:49,P0029,fill item,9,14.09,51991,Australia,Stationery,PayPal,Online,New York,126.81
+INV94076,2025-12-04 18:32:10,P0046,choose item,2,243.77,80476,Spain,Home Decor,NetBanking,Online,Paris,487.54
+INV44496,2025-06-13 23:22:29,P0006,a item,3,109.12,70920,Spain,Home Decor,PayPal,Mobile App,Rome,327.36
+INV30091,2025-08-06 06:58:28,P0035,note item,3,176.28,73530,United Kingdom,Stationery,NetBanking,Online,Sydney,528.84
+INV93918,2025-11-29 01:33:09,P0041,force item,1,389.02,46224,Netherlands,Electronics,UPI,Retail Store,Rome,389.02
+INV72287,2025-07-24 15:13:47,P0037,throughout item,8,470.91,17788,Usa,Kitchen,NetBanking,Retail Store,New York,3767.28
+INV39941,2025-08-15 04:11:20,P0024,turn item,6,40.85,38082,Germany,Home Decor,PayPal,Mobile App,Madrid,245.10000000000002
+INV19676,2025-07-18 02:46:25,P0029,action item,8,269.45,99570,Italy,Kitchen,PayPal,Online,Amsterdam,2155.6
+INV30280,2025-11-24 20:26:29,P0049,worker item,9,441.85,86816,France,Stationery,PayPal,Retail Store,Rome,3976.65
+INV94432,2025-10-10 01:17:28,P0046,those item,5,45.84,93588,Spain,Electronics,UPI,Online,Paris,229.20000000000002
+INV43496,2025-12-05 19:48:19,P0031,environmental item,3,413.13,26531,Spain,Electronics,NetBanking,Online,Madrid,1239.3899999999999
+INV79873,2025-09-21 06:46:45,P0035,sing item,5,182.11,98340,Italy,Electronics,NetBanking,Online,Paris,910.5500000000001
+INV38418,2025-06-11 16:36:46,P0033,study item,5,164.44,54857,Germany,Stationery,PayPal,Mobile App,Amsterdam,822.2
+INV63888,2025-08-05 05:22:39,P0021,very item,5,488.85,20142,Usa,Outdoor,NetBanking,Online,Rome,2444.25
+INV38022,2025-09-09 05:05:37,P0032,window item,3,104.43,58355,Netherlands,Outdoor,Card,Retail Store,Berlin,313.29
+INV31928,2025-08-20 01:45:33,P0023,land item,4,348.13,19866,Spain,Kitchen,Card,Online,New York,1392.52
+INV10389,2025-09-29 00:51:45,P0033,see item,9,411.61,80067,Usa,Outdoor,Card,Retail Store,Rome,3704.4900000000002
+INV76287,2025-12-01 17:05:03,P0003,study item,9,25.39,74027,Germany,Outdoor,NetBanking,Online,New York,228.51
+INV57701,2025-08-02 21:34:02,P0018,list item,2,336.84,67906,Italy,Electronics,UPI,Retail Store,Amsterdam,673.68
+INV30701,2025-11-19 11:19:33,P0025,try item,8,476.02,38138,United Kingdom,Electronics,UPI,Retail Store,Rome,3808.16
+INV98856,2025-11-23 14:00:49,P0042,by item,8,66.49,39956,Netherlands,Kitchen,UPI,Online,New York,531.92
+INV47137,2025-07-13 00:43:52,P0031,finish item,7,448.63,86295,France,Home Decor,UPI,Online,Sydney,3140.41
+INV43907,2025-10-10 04:55:05,P0003,wind item,8,299.41,15439,Spain,Kitchen,Card,Retail Store,New York,2395.28
+INV00607,2025-07-12 10:03:15,P0040,book item,3,310.22,57241,Germany,Kitchen,Card,Mobile App,Rome,930.6600000000001
+INV62447,2025-11-27 17:25:40,P0046,official item,6,308.41,52533,United Kingdom,Stationery,PayPal,Online,London,1850.46
+INV54274,2025-10-16 06:46:41,P0024,nearly item,1,152.92,38270,France,Stationery,NetBanking,Mobile App,Rome,152.92
+INV99354,2025-10-13 08:11:59,P0050,five item,7,467.92,88815,Australia,Kitchen,NetBanking,Online,Rome,3275.44
+INV62701,2025-06-19 04:06:54,P0032,write item,1,473.94,49279,Germany,Kitchen,UPI,Online,New York,473.94
+INV66490,2025-07-12 22:28:05,P0047,be item,9,314.53,33888,Germany,Kitchen,Card,Online,Paris,2830.7699999999995
+INV44995,2025-08-06 06:30:12,P0022,police item,1,392.79,27630,France,Outdoor,UPI,Online,Berlin,392.79
+INV80012,2025-09-29 03:15:58,P0023,read item,1,308.07,71063,United Kingdom,Stationery,PayPal,Mobile App,Paris,308.07
+INV60597,2025-06-12 02:00:50,P0002,production item,7,244.78,45144,Australia,Kitchen,NetBanking,Online,New York,1713.46
+INV01959,2025-10-01 02:35:40,P0027,order item,2,332.11,62161,Usa,Electronics,NetBanking,Retail Store,Paris,664.22
+INV04280,2025-06-18 15:02:05,P0042,street item,5,278.74,87360,Usa,Electronics,UPI,Retail Store,Madrid,1393.7
+INV61364,2025-08-31 20:50:22,P0002,serious item,8,300.75,60979,Italy,Outdoor,PayPal,Mobile App,London,2406.0
+INV51171,2025-08-16 07:59:55,P0026,prepare item,8,393.0,16979,United Kingdom,Outdoor,NetBanking,Online,Paris,3144.0
+INV24315,2025-07-04 21:32:33,P0017,throw item,3,243.05,36189,Netherlands,Home Decor,PayPal,Retail Store,Sydney,729.1500000000001
+INV01909,2025-10-31 11:58:40,P0040,create item,7,25.17,52600,Spain,Home Decor,PayPal,Mobile App,Amsterdam,176.19
+INV44047,2025-11-25 07:16:27,P0033,heavy item,3,86.18,69560,France,Home Decor,UPI,Online,Sydney,258.54
+INV82390,2025-09-17 11:13:25,P0009,school item,6,222.11,88040,Italy,Outdoor,Card,Retail Store,Amsterdam,1332.66
+INV98443,2025-11-04 15:42:05,P0043,she item,6,363.79,71558,Australia,Outdoor,UPI,Retail Store,Rome,2182.7400000000002
+INV25722,2025-08-20 20:51:08,P0048,model item,3,298.67,96205,France,Outdoor,Card,Mobile App,Madrid,896.01
+INV45005,2025-09-29 14:24:30,P0039,close item,7,326.9,16910,France,Electronics,PayPal,Online,London,2288.2999999999997
+INV72045,2025-09-12 14:40:13,P0029,cultural item,3,242.24,67713,United Kingdom,Outdoor,Card,Online,Sydney,726.72
+INV46253,2025-08-28 21:36:59,P0042,think item,8,309.79,56857,Spain,Electronics,PayPal,Retail Store,London,2478.32
+INV57331,2025-10-16 05:17:29,P0026,second item,4,167.86,44964,Netherlands,Home Decor,NetBanking,Retail Store,Sydney,671.44
+INV33774,2025-08-17 04:55:00,P0035,area item,1,237.74,95667,Usa,Home Decor,NetBanking,Retail Store,Rome,237.74
+INV66333,2025-07-23 15:52:20,P0050,surface item,4,373.42,35227,Germany,Home Decor,NetBanking,Online,Amsterdam,1493.68
+INV38007,2025-11-06 09:51:01,P0025,each item,7,436.56,15978,Germany,Kitchen,UPI,Mobile App,Berlin,3055.92
+INV06532,2025-11-30 23:05:46,P0024,away item,4,219.66,97527,France,Kitchen,UPI,Mobile App,Madrid,878.64
+INV92765,2025-07-22 14:52:13,P0013,improve item,6,26.61,27153,Usa,Stationery,PayPal,Online,Sydney,159.66
+INV29612,2025-11-14 12:42:53,P0007,fight item,9,85.03,69765,Usa,Stationery,NetBanking,Mobile App,Sydney,765.27
+INV88956,2025-10-25 21:58:30,P0036,themselves item,1,15.33,49071,Spain,Stationery,UPI,Retail Store,Rome,15.33
+INV57862,2025-09-09 09:01:51,P0045,artist item,5,328.37,79519,Australia,Kitchen,NetBanking,Mobile App,Madrid,1641.85
+INV38052,2025-07-14 07:10:15,P0020,might item,7,169.5,19503,Australia,Kitchen,UPI,Mobile App,Amsterdam,1186.5
+INV01511,2025-11-18 08:24:43,P0001,report item,1,273.53,70703,Italy,Stationery,Card,Mobile App,Amsterdam,273.53
+INV08778,2025-08-05 14:58:01,P0008,share item,4,249.17,74379,United Kingdom,Stationery,Card,Retail Store,Sydney,996.68
+INV29218,2025-09-24 05:21:11,P0046,time item,6,45.36,67866,Spain,Outdoor,NetBanking,Online,Berlin,272.15999999999997
+INV64395,2025-08-03 04:07:27,P0016,each item,2,204.61,26905,Spain,Stationery,PayPal,Retail Store,Berlin,409.22
+INV44655,2025-09-11 22:13:03,P0014,training item,5,114.18,55838,United Kingdom,Outdoor,UPI,Online,London,570.9000000000001
+INV05179,2025-10-19 21:36:06,P0012,project item,1,212.11,68279,Usa,Electronics,UPI,Online,Madrid,212.11
+INV10585,2025-07-04 17:23:10,P0023,especially item,6,105.77,99489,Australia,Kitchen,Card,Online,Madrid,634.62
+INV49121,2025-07-25 05:50:19,P0015,car item,6,421.02,36806,Australia,Stationery,Card,Mobile App,Amsterdam,2526.12
+INV63593,2025-12-01 04:34:13,P0028,wife item,4,91.23,55000,Usa,Kitchen,PayPal,Mobile App,London,364.92
+INV95099,2025-11-19 06:28:20,P0034,you item,8,480.59,32168,Australia,Kitchen,PayPal,Online,Rome,3844.72
+INV32586,2025-09-13 06:24:11,P0002,focus item,4,210.87,80119,France,Kitchen,PayPal,Online,Madrid,843.48
+INV90511,2025-08-28 14:21:54,P0032,those item,8,423.89,48714,Spain,Electronics,NetBanking,Mobile App,London,3391.12
+INV87394,2025-07-06 13:07:58,P0023,deal item,8,316.24,64093,Germany,Home Decor,Card,Retail Store,London,2529.92
+INV84270,2025-06-20 04:23:12,P0022,decision item,5,369.0,65419,United Kingdom,Stationery,NetBanking,Online,Sydney,1845.0
+INV07185,2025-06-12 05:18:29,P0025,course item,4,385.02,59145,Australia,Home Decor,Card,Retail Store,Amsterdam,1540.08
+INV22603,2025-09-11 14:23:51,P0022,fight item,2,254.9,87425,Italy,Home Decor,Card,Mobile App,London,509.8
+INV44548,2025-07-12 02:04:56,P0022,management item,3,273.93,87811,Australia,Home Decor,UPI,Online,New York,821.79
+INV59517,2025-07-17 07:31:37,P0049,form item,3,259.43,12461,Australia,Kitchen,Card,Retail Store,Berlin,778.29
+INV20878,2025-06-11 19:09:10,P0042,treat item,4,296.09,24291,Netherlands,Outdoor,Card,Retail Store,New York,1184.36
+INV81654,2025-07-31 10:40:48,P0006,subject item,4,19.55,56804,France,Kitchen,NetBanking,Retail Store,Berlin,78.2
+INV07608,2025-08-13 00:51:08,P0015,leg item,5,200.78,86971,United Kingdom,Kitchen,Card,Mobile App,Paris,1003.9
+INV64816,2025-09-01 17:27:34,P0043,thing item,4,305.06,74946,Netherlands,Home Decor,NetBanking,Mobile App,Amsterdam,1220.24
+INV81412,2025-08-05 02:30:39,P0037,decide item,8,300.87,94080,Netherlands,Kitchen,PayPal,Retail Store,Sydney,2406.96
+INV71871,2025-07-28 22:55:59,P0033,down item,6,397.51,71332,Italy,Home Decor,Card,Retail Store,Rome,2385.06
+INV25980,2025-11-20 19:57:16,P0008,up item,6,329.23,87794,Spain,Outdoor,Card,Mobile App,New York,1975.38
+INV94580,2025-07-30 10:18:18,P0044,raise item,8,496.11,40841,Italy,Stationery,NetBanking,Retail Store,New York,3968.88
+INV02000,2025-09-06 22:50:00,P0044,exist item,7,145.51,58758,Spain,Home Decor,PayPal,Retail Store,Paris,1018.5699999999999
+INV03787,2025-11-28 13:26:31,P0005,point item,8,182.78,86272,Spain,Outdoor,UPI,Mobile App,Berlin,1462.24
+INV95297,2025-09-13 07:46:15,P0039,describe item,2,195.0,47643,United Kingdom,Stationery,PayPal,Retail Store,Sydney,390.0
+INV55255,2025-06-20 17:46:03,P0004,would item,9,235.58,60408,Australia,Electronics,NetBanking,Retail Store,Paris,2120.2200000000003
+INV24684,2025-09-13 21:31:43,P0006,trial item,1,418.82,53950,United Kingdom,Home Decor,PayPal,Retail Store,Amsterdam,418.82
+INV06662,2025-10-04 17:18:35,P0045,enjoy item,8,121.72,66849,France,Home Decor,NetBanking,Mobile App,Sydney,973.76
+INV52160,2025-09-24 21:58:59,P0032,past item,4,389.12,38044,Spain,Electronics,NetBanking,Retail Store,Amsterdam,1556.48
+INV53056,2025-07-26 06:08:16,P0030,country item,4,205.63,25997,Netherlands,Electronics,UPI,Mobile App,London,822.52
+INV58809,2025-09-26 18:30:31,P0047,rise item,5,302.92,89751,Australia,Home Decor,Card,Mobile App,Madrid,1514.6000000000001
+INV43391,2025-08-10 05:12:02,P0035,as item,8,318.11,33911,Germany,Electronics,NetBanking,Online,London,2544.88
+INV22203,2025-12-03 03:58:21,P0040,seem item,5,189.56,65533,France,Kitchen,NetBanking,Online,Amsterdam,947.8
+INV65061,2025-10-02 12:08:17,P0016,nor item,8,258.74,92566,United Kingdom,Stationery,UPI,Retail Store,New York,2069.92
+INV26638,2025-06-15 01:18:12,P0013,miss item,1,209.45,24571,Italy,Stationery,NetBanking,Mobile App,Sydney,209.45
+INV27846,2025-09-09 14:22:26,P0050,resource item,9,39.22,67941,France,Stationery,Card,Online,Berlin,352.98
+INV25681,2025-07-11 20:56:40,P0042,film item,6,221.4,68005,France,Kitchen,UPI,Retail Store,Rome,1328.4
+INV76787,2025-09-30 20:07:09,P0030,range item,3,53.21,96250,Australia,Electronics,Card,Online,Berlin,159.63
+INV37823,2025-10-16 16:20:20,P0019,her item,8,205.49,68712,France,Outdoor,Card,Online,Sydney,1643.92
+INV05119,2025-11-28 19:29:27,P0017,them item,9,298.49,53541,France,Electronics,UPI,Mobile App,London,2686.41
+INV42399,2025-11-07 08:12:38,P0019,environment item,6,291.81,33387,Germany,Home Decor,NetBanking,Mobile App,Rome,1750.8600000000001
+INV90976,2025-08-26 22:10:03,P0028,member item,7,333.0,58908,Usa,Stationery,Card,Online,Sydney,2331.0
+INV29877,2025-07-18 06:49:34,P0026,case item,1,52.15,95457,Italy,Electronics,Card,Online,Amsterdam,52.15
+INV83831,2025-07-29 04:26:17,P0037,article item,5,327.8,23057,Italy,Outdoor,Card,Mobile App,New York,1639.0
+INV18512,2025-07-14 19:02:05,P0026,fire item,5,159.51,74028,Italy,Home Decor,Card,Retail Store,Berlin,797.55
+INV50480,2025-10-05 15:42:59,P0023,take item,4,202.53,65731,Spain,Kitchen,UPI,Mobile App,Amsterdam,810.12
+INV85765,2025-11-03 16:10:54,P0009,research item,6,429.7,34858,Netherlands,Kitchen,UPI,Online,Rome,2578.2
+INV51513,2025-11-08 17:28:26,P0012,success item,7,9.47,58689,Usa,Outdoor,PayPal,Retail Store,Rome,66.29
+INV17492,2025-08-23 03:30:40,P0001,far item,9,296.26,54638,Italy,Home Decor,PayPal,Online,Berlin,2666.34
+INV10647,2025-10-01 16:31:13,P0001,him item,1,301.36,56486,France,Stationery,Card,Retail Store,Amsterdam,301.36
+INV19592,2025-10-30 22:34:48,P0047,whole item,6,201.35,30567,France,Electronics,NetBanking,Online,Paris,1208.1
+INV74626,2025-08-07 23:16:24,P0034,wrong item,7,122.33,39739,Italy,Home Decor,Card,Retail Store,Amsterdam,856.31
+INV67045,2025-11-03 11:31:07,P0032,subject item,3,121.16,67804,Australia,Kitchen,NetBanking,Retail Store,Rome,363.48
+INV19611,2025-08-14 01:32:16,P0048,image item,8,442.44,13754,Italy,Outdoor,Card,Online,Amsterdam,3539.52
+INV96756,2025-07-20 15:25:11,P0025,not item,5,223.8,37044,France,Outdoor,PayPal,Retail Store,New York,1119.0
+INV51078,2025-10-31 10:21:40,P0040,whether item,9,168.79,77260,Spain,Electronics,PayPal,Mobile App,Sydney,1519.11
+INV33428,2025-10-19 08:55:16,P0045,clear item,5,227.14,76912,United Kingdom,Outdoor,NetBanking,Online,London,1135.6999999999998
+INV55001,2025-11-26 13:42:27,P0001,evidence item,9,336.35,18706,United Kingdom,Outdoor,Card,Mobile App,New York,3027.15
+INV02200,2025-08-16 02:46:18,P0016,sign item,4,77.15,18894,Usa,Home Decor,NetBanking,Online,Paris,308.6
+INV95174,2025-09-07 16:41:47,P0039,science item,9,227.47,28037,Usa,Stationery,PayPal,Retail Store,Madrid,2047.23
+INV09792,2025-07-09 00:11:20,P0005,single item,5,296.0,93986,Italy,Electronics,Card,Retail Store,Sydney,1480.0
+INV23930,2025-10-20 23:37:23,P0022,similar item,9,474.55,91942,Germany,Home Decor,Card,Retail Store,London,4270.95
+INV65691,2025-12-04 04:21:22,P0029,deal item,3,130.0,61612,Italy,Stationery,NetBanking,Online,Madrid,390.0
+INV80646,2025-12-05 22:11:19,P0003,agency item,4,182.83,39725,Australia,Home Decor,UPI,Mobile App,Berlin,731.32
+INV43724,2025-11-04 05:05:16,P0012,scientist item,9,192.78,15926,Italy,Home Decor,NetBanking,Mobile App,Madrid,1735.02
+INV89755,2025-08-05 21:03:15,P0026,worker item,6,304.74,19496,Usa,Outdoor,PayPal,Online,Sydney,1828.44
+INV20627,2025-06-24 11:03:29,P0016,office item,2,181.58,66447,United Kingdom,Stationery,PayPal,Online,Amsterdam,363.16
+INV22931,2025-07-30 10:01:23,P0037,best item,7,269.09,39806,France,Electronics,PayPal,Mobile App,Sydney,1883.6299999999999
+INV03289,2025-06-15 06:40:02,P0022,across item,2,391.99,98199,Italy,Electronics,PayPal,Mobile App,New York,783.98
+INV07488,2025-07-28 13:17:18,P0029,institution item,2,354.17,51321,France,Stationery,PayPal,Mobile App,Madrid,708.34
+INV58333,2025-08-29 07:08:32,P0014,grow item,1,225.95,75095,France,Outdoor,UPI,Mobile App,Rome,225.95
+INV87511,2025-11-15 14:45:52,P0028,staff item,3,432.79,32656,Germany,Kitchen,Card,Online,London,1298.3700000000001
+INV02541,2025-11-16 18:26:41,P0005,policy item,6,281.28,65147,France,Home Decor,NetBanking,Online,London,1687.6799999999998
+INV37395,2025-06-27 15:56:39,P0047,fast item,8,272.25,59666,United Kingdom,Outdoor,NetBanking,Retail Store,Madrid,2178.0
+INV22700,2025-07-03 16:16:31,P0049,people item,9,21.92,92368,Spain,Stationery,PayPal,Mobile App,London,197.28000000000003
+INV10420,2025-09-06 08:22:29,P0030,thus item,7,493.41,48787,Spain,Home Decor,NetBanking,Retail Store,Rome,3453.8700000000003
+INV26193,2025-06-11 16:34:59,P0046,seek item,4,65.87,72946,Netherlands,Electronics,PayPal,Online,Sydney,263.48
+INV81779,2025-09-23 17:35:43,P0005,near item,6,119.41,31727,Australia,Kitchen,UPI,Online,London,716.46
+INV26934,2025-11-13 11:51:33,P0012,off item,5,30.59,78056,Italy,Electronics,UPI,Retail Store,Madrid,152.95
+INV39315,2025-08-04 20:36:21,P0016,drive item,8,321.8,13081,Australia,Stationery,Card,Mobile App,Paris,2574.4
+INV27820,2025-10-11 01:11:42,P0026,break item,1,116.23,44196,United Kingdom,Home Decor,UPI,Mobile App,Paris,116.23
+INV57554,2025-07-06 02:08:21,P0026,under item,1,94.11,46735,France,Stationery,UPI,Mobile App,Berlin,94.11
+INV65768,2025-09-24 17:10:56,P0048,purpose item,6,48.84,90102,Spain,Home Decor,Card,Mobile App,New York,293.04
+INV17278,2025-06-14 10:51:38,P0021,marriage item,2,56.14,89578,Australia,Outdoor,NetBanking,Retail Store,London,112.28
+INV93445,2025-10-27 15:31:14,P0039,visit item,5,294.41,35498,United Kingdom,Kitchen,PayPal,Retail Store,New York,1472.0500000000002
+INV63541,2025-09-24 04:01:55,P0036,mr item,1,345.66,86865,Spain,Outdoor,PayPal,Online,Sydney,345.66
+INV90412,2025-08-02 12:53:59,P0033,see item,7,201.7,41656,France,Outdoor,NetBanking,Mobile App,Madrid,1411.8999999999999
+INV99783,2025-11-13 04:58:57,P0030,market item,1,242.55,77695,Australia,Stationery,Card,Mobile App,London,242.55
+INV16103,2025-06-17 10:56:40,P0037,minute item,4,344.55,47900,Spain,Kitchen,NetBanking,Mobile App,Amsterdam,1378.2
+INV28448,2025-07-14 23:16:55,P0023,whatever item,9,13.6,94899,Italy,Home Decor,UPI,Retail Store,Rome,122.39999999999999
+INV21805,2025-11-25 04:53:27,P0010,those item,1,164.95,57701,Usa,Home Decor,Card,Mobile App,London,164.95
+INV52494,2025-08-02 06:46:11,P0005,develop item,4,486.68,29033,Italy,Electronics,Card,Retail Store,London,1946.72
+INV73124,2025-06-26 08:30:25,P0036,education item,6,292.16,20805,Netherlands,Home Decor,Card,Mobile App,New York,1752.96
+INV95878,2025-11-21 07:50:29,P0034,report item,6,130.84,45851,Netherlands,Stationery,PayPal,Mobile App,New York,785.04
+INV35489,2025-07-29 16:02:45,P0031,century item,8,263.26,36832,Spain,Outdoor,NetBanking,Online,Paris,2106.08
+INV86137,2025-11-24 10:25:05,P0010,man item,1,174.61,73437,Usa,Outdoor,Card,Mobile App,Rome,174.61
+INV04815,2025-06-20 18:51:25,P0019,usually item,7,268.46,23944,United Kingdom,Outdoor,Card,Mobile App,Madrid,1879.2199999999998
+INV46889,2025-10-26 05:01:04,P0032,than item,1,67.24,29873,Italy,Kitchen,Card,Online,London,67.24
+INV78562,2025-09-22 07:47:16,P0001,right item,7,70.69,50372,United Kingdom,Home Decor,NetBanking,Retail Store,Paris,494.83
+INV68895,2025-11-01 11:26:37,P0005,want item,3,76.05,99464,Usa,Stationery,PayPal,Retail Store,New York,228.14999999999998
+INV73805,2025-06-23 07:23:12,P0045,sign item,8,470.21,25379,United Kingdom,Kitchen,UPI,Mobile App,Berlin,3761.68
+INV73922,2025-12-04 09:26:01,P0004,speech item,3,367.78,46751,Usa,Electronics,PayPal,Retail Store,Rome,1103.34
+INV33142,2025-10-31 19:25:30,P0016,identify item,1,85.38,99822,Spain,Stationery,Card,Mobile App,Paris,85.38
+INV63629,2025-10-08 01:03:35,P0024,far item,8,98.23,15110,United Kingdom,Stationery,PayPal,Online,Paris,785.84
+INV45773,2025-08-30 17:33:15,P0016,century item,3,366.76,64341,Italy,Stationery,PayPal,Online,Sydney,1100.28
+INV79602,2025-08-27 22:42:52,P0002,above item,2,82.3,22087,France,Outdoor,UPI,Mobile App,Paris,164.6
+INV23342,2025-11-04 22:20:42,P0049,former item,1,121.11,33762,Netherlands,Stationery,NetBanking,Online,Sydney,121.11
+INV34643,2025-08-07 02:38:15,P0028,hospital item,3,481.86,92617,France,Home Decor,NetBanking,Online,London,1445.58
+INV48543,2025-08-10 08:42:16,P0032,tell item,2,131.38,19596,United Kingdom,Stationery,PayPal,Mobile App,London,262.76
+INV52816,2025-07-13 17:56:01,P0027,my item,2,332.51,28313,France,Outdoor,PayPal,Mobile App,New York,665.02
+INV62673,2025-11-16 08:52:55,P0020,particular item,6,489.42,76549,Italy,Stationery,NetBanking,Online,Berlin,2936.52
+INV96733,2025-10-22 02:32:41,P0024,degree item,1,190.28,33705,Italy,Electronics,NetBanking,Retail Store,Amsterdam,190.28
+INV68083,2025-09-02 20:53:29,P0012,man item,2,13.67,77364,United Kingdom,Electronics,UPI,Retail Store,Amsterdam,27.34
+INV94606,2025-08-31 07:47:38,P0050,general item,6,125.85,83445,Spain,Outdoor,Card,Mobile App,Amsterdam,755.0999999999999
+INV88017,2025-10-04 07:16:03,P0035,material item,3,416.28,88645,France,Home Decor,PayPal,Mobile App,New York,1248.84
+INV06757,2025-09-01 05:37:22,P0033,entire item,4,432.98,12023,Spain,Home Decor,NetBanking,Retail Store,Sydney,1731.92
+INV62800,2025-09-22 20:30:51,P0033,discussion item,1,385.42,69796,Spain,Kitchen,PayPal,Online,New York,385.42
+INV18491,2025-09-26 18:17:14,P0043,house item,8,60.99,90073,Usa,Outdoor,PayPal,Retail Store,Rome,487.92
+INV58113,2025-07-14 16:04:49,P0037,discuss item,7,398.78,74429,Germany,Stationery,NetBanking,Retail Store,Rome,2791.46
+INV14591,2025-08-10 03:19:12,P0012,detail item,7,459.75,71627,United Kingdom,Outdoor,UPI,Retail Store,Berlin,3218.25
+INV77367,2025-09-19 12:08:39,P0003,shake item,3,302.3,43848,Netherlands,Kitchen,PayPal,Retail Store,Rome,906.9000000000001
+INV26623,2025-11-03 19:07:16,P0001,reality item,3,470.73,47804,Italy,Outdoor,UPI,Mobile App,Amsterdam,1412.19
+INV43025,2025-07-12 19:31:25,P0033,budget item,2,414.29,25379,Italy,Outdoor,NetBanking,Mobile App,Amsterdam,828.58
+INV29467,2025-07-21 03:45:13,P0040,media item,1,335.15,69664,United Kingdom,Kitchen,Card,Online,New York,335.15
+INV43468,2025-08-11 21:07:37,P0010,road item,7,290.71,37766,Usa,Home Decor,Card,Online,Paris,2034.9699999999998
+INV40244,2025-12-02 05:49:42,P0043,edge item,7,177.54,78099,Australia,Stationery,PayPal,Online,Rome,1242.78
+INV79253,2025-11-30 18:19:10,P0044,almost item,2,83.85,46060,Australia,Kitchen,NetBanking,Online,New York,167.7
+INV25137,2025-11-21 10:56:59,P0029,part item,7,304.45,79122,Australia,Electronics,UPI,Retail Store,London,2131.15
+INV13533,2025-10-13 05:07:41,P0013,almost item,8,162.47,26087,Usa,Home Decor,PayPal,Mobile App,London,1299.76
+INV91251,2025-07-28 17:46:05,P0012,score item,1,433.89,58868,Netherlands,Electronics,NetBanking,Mobile App,Paris,433.89
+INV38413,2025-06-20 16:20:41,P0031,new item,9,496.7,33225,Italy,Home Decor,NetBanking,Online,Paris,4470.3
+INV65313,2025-10-21 13:24:43,P0046,because item,7,377.45,16643,United Kingdom,Stationery,UPI,Online,Paris,2642.15
+INV68033,2025-10-27 18:17:25,P0002,machine item,3,49.79,46727,Usa,Stationery,PayPal,Retail Store,New York,149.37
+INV81077,2025-11-07 04:30:18,P0050,because item,8,147.9,21005,Italy,Outdoor,NetBanking,Retail Store,London,1183.2
+INV36472,2025-11-30 13:59:04,P0035,rich item,7,59.01,75697,Spain,Electronics,NetBanking,Online,Amsterdam,413.07
+INV65553,2025-07-30 10:29:18,P0023,few item,8,327.0,26029,France,Home Decor,NetBanking,Mobile App,Paris,2616.0
+INV43474,2025-12-04 16:08:23,P0017,city item,6,383.77,24226,France,Stationery,UPI,Mobile App,Berlin,2302.62
+INV83933,2025-07-20 02:47:15,P0026,work item,9,463.21,73646,Usa,Kitchen,PayPal,Mobile App,Sydney,4168.889999999999
+INV81012,2025-06-16 23:07:12,P0008,education item,5,221.9,70603,Italy,Stationery,PayPal,Online,New York,1109.5
+INV02339,2025-11-17 11:07:26,P0029,action item,3,451.18,38731,Germany,Kitchen,PayPal,Mobile App,Paris,1353.54
+INV69580,2025-08-31 21:45:40,P0026,study item,3,439.56,78926,Netherlands,Home Decor,PayPal,Retail Store,Sydney,1318.68
+INV00544,2025-09-04 06:47:09,P0010,radio item,1,162.01,15997,Australia,Stationery,Card,Retail Store,Madrid,162.01
+INV05365,2025-08-22 18:16:57,P0026,very item,8,435.11,65506,Netherlands,Stationery,Card,Online,Paris,3480.88
+INV91929,2025-06-30 04:05:59,P0034,responsibility item,2,190.96,88229,Netherlands,Home Decor,PayPal,Retail Store,London,381.92
+INV77456,2025-12-02 08:38:31,P0041,peace item,3,151.95,59815,Usa,Stationery,UPI,Online,Rome,455.84999999999997
+INV58557,2025-08-04 06:27:16,P0007,add item,8,326.29,52092,Spain,Kitchen,Card,Mobile App,Paris,2610.32
+INV74602,2025-12-02 09:22:50,P0004,option item,8,167.55,72539,Netherlands,Stationery,NetBanking,Mobile App,New York,1340.4
+INV17163,2025-09-20 11:41:11,P0050,city item,4,316.95,76077,France,Electronics,Card,Mobile App,Rome,1267.8
+INV87987,2025-09-10 10:43:33,P0045,animal item,4,306.87,31817,Spain,Outdoor,NetBanking,Retail Store,Madrid,1227.48
+INV15711,2025-12-07 07:03:06,P0011,expert item,5,283.9,47861,United Kingdom,Kitchen,PayPal,Online,Berlin,1419.5
+INV12923,2025-07-26 04:31:26,P0029,range item,6,193.31,23428,Netherlands,Electronics,Card,Mobile App,Rome,1159.8600000000001
+INV76364,2025-07-30 14:29:11,P0036,water item,5,276.51,53934,Netherlands,Home Decor,UPI,Online,Sydney,1382.55
+INV05683,2025-10-31 11:27:04,P0025,material item,7,300.26,20258,United Kingdom,Kitchen,Card,Mobile App,Amsterdam,2101.8199999999997
+INV60622,2025-11-14 20:00:33,P0021,treat item,2,275.12,67775,Netherlands,Outdoor,Card,Retail Store,Paris,550.24
+INV93398,2025-09-04 07:38:25,P0036,hope item,7,224.99,91580,United Kingdom,Outdoor,Card,Retail Store,Madrid,1574.93
+INV32395,2025-08-05 09:51:47,P0010,open item,7,12.26,15469,Spain,Home Decor,PayPal,Online,Madrid,85.82
+INV16955,2025-11-10 03:57:10,P0037,data item,1,295.6,38854,France,Home Decor,UPI,Retail Store,Rome,295.6
+INV40442,2025-07-10 08:24:43,P0009,write item,7,88.38,16256,United Kingdom,Kitchen,Card,Retail Store,Berlin,618.66
+INV83053,2025-09-16 02:53:59,P0024,total item,5,323.08,86256,Germany,Stationery,UPI,Online,London,1615.3999999999999
+INV13068,2025-10-17 06:34:41,P0035,to item,3,380.88,43937,Usa,Home Decor,PayPal,Mobile App,Paris,1142.6399999999999
+INV61990,2025-07-22 07:40:19,P0049,result item,3,252.72,11651,Usa,Stationery,NetBanking,Retail Store,Madrid,758.16
+INV17834,2025-11-01 00:08:06,P0035,case item,4,273.47,60288,United Kingdom,Electronics,Card,Online,Berlin,1093.88
+INV79418,2025-11-05 21:46:37,P0048,stop item,2,475.98,94730,Usa,Outdoor,UPI,Retail Store,Amsterdam,951.96
+INV28168,2025-10-27 10:15:34,P0036,perhaps item,2,424.35,35051,Netherlands,Stationery,UPI,Retail Store,Madrid,848.7
+INV29628,2025-10-01 11:44:56,P0018,across item,1,457.55,37386,Australia,Outdoor,PayPal,Retail Store,Berlin,457.55
+INV46269,2025-10-13 02:08:36,P0049,point item,5,407.81,85054,Australia,Stationery,Card,Retail Store,New York,2039.05
+INV28018,2025-11-19 15:29:16,P0039,serve item,4,58.91,26184,Usa,Electronics,NetBanking,Online,London,235.64
+INV24453,2025-10-26 12:02:11,P0032,couple item,2,78.75,43787,Spain,Home Decor,UPI,Online,London,157.5
+INV26313,2025-08-06 06:02:49,P0024,animal item,3,265.68,31621,Italy,Electronics,Card,Online,Madrid,797.04
+INV68913,2025-08-16 18:31:16,P0023,interview item,7,126.8,85564,Spain,Home Decor,NetBanking,Retail Store,Sydney,887.6
+INV58340,2025-07-14 21:06:24,P0032,sure item,7,240.96,87984,Italy,Home Decor,UPI,Retail Store,Madrid,1686.72
+INV76132,2025-08-07 17:07:33,P0037,meet item,4,200.21,69792,Australia,Outdoor,UPI,Retail Store,Rome,800.84
+INV58589,2025-06-22 22:37:11,P0012,so item,5,276.96,55253,Australia,Electronics,NetBanking,Online,Paris,1384.8
+INV91083,2025-09-11 23:49:00,P0049,great item,5,374.7,44051,United Kingdom,Stationery,NetBanking,Retail Store,Berlin,1873.5
+INV93276,2025-06-13 05:56:37,P0013,get item,6,359.17,59811,France,Electronics,PayPal,Mobile App,Madrid,2155.02
+INV64939,2025-10-25 06:26:17,P0023,second item,9,263.01,40447,Germany,Outdoor,Card,Retail Store,Paris,2367.09
+INV01515,2025-08-04 10:12:48,P0025,bar item,2,412.08,93930,Spain,Home Decor,Card,Mobile App,Rome,824.16
+INV93576,2025-09-30 01:19:20,P0035,daughter item,5,218.28,40254,Netherlands,Outdoor,PayPal,Retail Store,New York,1091.4
+INV69142,2025-10-28 16:27:07,P0041,value item,3,448.87,94045,Italy,Kitchen,UPI,Online,New York,1346.6100000000001
+INV73279,2025-12-02 11:36:07,P0030,fall item,4,40.28,67418,Usa,Kitchen,NetBanking,Retail Store,Paris,161.12
+INV10911,2025-06-24 11:40:27,P0017,radio item,6,477.56,24472,Netherlands,Stationery,NetBanking,Mobile App,Madrid,2865.36
+INV83000,2025-06-23 18:56:57,P0049,guess item,8,329.07,13471,France,Outdoor,NetBanking,Mobile App,London,2632.56
